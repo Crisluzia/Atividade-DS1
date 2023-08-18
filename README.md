@@ -1,5 +1,5 @@
 # Atividade-DS1
-Atividade para diciplina de Desenvolvimento de Sistemas
+Atividade para disciplina de Desenvolvimento de Sistemas
 
 1. O problema ou oportunidade percebida
   
