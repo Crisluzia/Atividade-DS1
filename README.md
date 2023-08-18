@@ -3,7 +3,7 @@ Atividade para diciplina de Desenvolvimento de Sistemas
 
 1. O problema ou oportunidade percebida
   
-sobrecarga de requerimento de serviços experienciada por clínicas veterinárias, e na falta de praticidade no agendamento de consultas e comunicação dos donos de animais com ditas clinicas, este projeto foi idealizado na intenção de facilitar a interação entre ambas as partes.
+Sobrecarga de requerimento de serviços experienciada por clínicas veterinárias, e na falta de praticidade no agendamento de consultas e comunicação dos donos de animais com ditas clinicas, este projeto foi idealizado na intenção de facilitar a interação entre ambas as partes.
 
 2. A razão ou justificativa para esta demanda
    
@@ -17,7 +17,9 @@ O projeto será uma aplicação web simples e interativa, que abranja diversas f
      
 Donos de Pets acima de 18 anos e clínicas veteninárias.
 
-6. Identifique os principais critérios de qualidade para o produto
+5. Identifique os principais critérios de qualidade para o produto
 
 Por ser uma aplicação web, buscamos lidar com o armazenamento de dados em nuvem para possibilitar uma maior escalabilidade, o sistema deve ser intuítivo e de fácil uso, além de conter ferramentas de acessibilidade.
 
+6. Avalie os riscos (relacionados à não entrega, falhas e de desenvolvimento)
+Os riscos relacionados à qualquer problema futuro, levaria ao retrocesso da simplificação entre a comunicação dos donos de pets e a clínica veterinária, tendo como resultado a demora relacionada a facilitação e informatização do bem-estar dos pacientes, além de possíveis falhas técnicas como sobrecarga e queda do sistema.
