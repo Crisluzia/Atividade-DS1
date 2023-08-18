@@ -11,8 +11,8 @@ Atividade para diciplina de Desenvolvimento de Sistemas
   O projeto será uma aplicação web simples e interativa, que abranja diversas faixas etárias e que os ajude a organizar os dados clínicos de seus pets. Teremos a disponibilização de quatro tipos de sistema, junto a um website comercial. Esses quatro sistemas se dividem em: Cliente, Médico, Secretário e administrativo. Cada um terá funcionalidades que intercalam entre si, sendo as principais o cadastro, pesquisa e gerenciamento de dados, consultas, exames, vacinas, etc. 
 
 4. Identifique os clientes, usuários e demais envolvidos/impactados com o produto
-  Donos de Pets acima de 18 anos e clínicas veteninárias.
+     Donos de Pets acima de 18 anos e clínicas veteninárias.
 
-5. Identifique os principais critérios de qualidade para o produto
+6. Identifique os principais critérios de qualidade para o produto
 Por ser uma aplicação web, buscamos lidar com o armazenamento de dados em nuvem para possibilitar uma maior escalabilidade, o sistema deve ser intuítivo e de fácil uso, além de conter ferramentas de acessibilidade.
 
