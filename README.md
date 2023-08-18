@@ -22,4 +22,5 @@ Donos de Pets acima de 18 anos e clínicas veteninárias.
 Por ser uma aplicação web, buscamos lidar com o armazenamento de dados em nuvem para possibilitar uma maior escalabilidade, o sistema deve ser intuítivo e de fácil uso, além de conter ferramentas de acessibilidade.
 
 6. Avalie os riscos (relacionados à não entrega, falhas e de desenvolvimento)
+   
 Os riscos relacionados à qualquer problema futuro, levaria ao retrocesso da simplificação entre a comunicação dos donos de pets e a clínica veterinária, tendo como resultado a demora relacionada a facilitação e informatização do bem-estar dos pacientes, além de possíveis falhas técnicas como sobrecarga e queda do sistema.
